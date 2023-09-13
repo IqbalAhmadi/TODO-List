@@ -62,7 +62,7 @@ form {
 
 .todos li.completed {
   color: #b6b6b6;
-  text-decoration: ;
+  text-decoration: line-through;
 }
 
 small {
